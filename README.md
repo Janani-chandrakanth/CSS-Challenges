@@ -1,0 +1,3 @@
+Welcome to my CSS Challenges repository! This project is a collection of creative CSS-only challenges where I explore various animations, styles, and layouts. Each challenge demonstrates a unique concept, and my goal is to deepen my understanding of CSS by experimenting with different properties and techniques.Introduction
+This repository contains a series of CSS challenges, each focusing on a different skill, effect, or visual theme. I take on daily or weekly CSS challenges to push my creativity and improve my CSS skills. Each folder or file represents a single challenge and includes all necessary HTML and CSS code.
+
